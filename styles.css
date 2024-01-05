@@ -1,0 +1,16 @@
+.listediv{
+    border: 2px solid #7a9a99;
+    border-radius: 0 5px;
+    background-color: #c9d6d6;
+    padding: 15px;
+    width: 200px;
+}
+
+.ferdigKLasse {
+    border: 2px solid #7a9a99;
+    border-radius: 0 5px;
+    background-color: #c9d6d6;
+    padding: 15px;
+    width: 200px;
+    opacity: 0.3;
+  }
